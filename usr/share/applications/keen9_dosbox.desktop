@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=KEEN 9
+GenericName=Spiele
+Comment=DOS Spiele starten
+Exec=dosbox -noautoexec -exit -conf /opt/dosbox/dosbox-0.74-3.conf /opt/dosbox/drive_c/CommanderKeen/keen9/Keen9.bat
+Terminal=false
+Type=Application
+Keywords=dosbox;commander;keen;
+Icon=/opt/dosbox/icons/keen9.png
+Categories=Game;
+StartupNotify=true

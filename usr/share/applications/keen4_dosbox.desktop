@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=KEEN 4
+GenericName=Spiele
+Comment=DOS Spiele starten
+Exec=dosbox -noautoexec -exit -conf /opt/dosbox/dosbox-0.74-3.conf /opt/dosbox/drive_c/CommanderKeen/keen4/KEEN4E.EXE
+Terminal=false
+Type=Application
+Keywords=dosbox;commander;keen;
+Icon=/opt/dosbox/icons/keen4.ico
+Categories=Game;
+StartupNotify=true
