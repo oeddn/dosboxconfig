@@ -2,7 +2,7 @@
 
 ## Usecase
 
-The aim of this approach is to avoid multiple copies of the same files inside a system where multiple users use DOSBox. In my case, I want install old DOS games so that every user on the system (e.g. my son) can use them, but not every user should have to configure everything by himself.
+The aim of this approach is to avoid multiple copies of the same files inside a system where multiple users use DOSBox. In my case, I want install old DOS games so that every user on the system can use them, but not every user should have to configure everything by himself.
 
 All users on the same physical machine shall:
 a) use the same DOSBox configuration file
